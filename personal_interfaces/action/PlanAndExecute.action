@@ -1,0 +1,12 @@
+# Goal
+geometry_msgs/PoseStamped target_pose
+string task_type
+string model_name_2
+string link_name_2
+int32 marker_id
+---
+# Result
+bool success
+---
+# Feedback
+string status

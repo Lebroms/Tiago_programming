@@ -1,0 +1,10 @@
+# Goal
+float64 left_limit
+float64 right_limit
+float64 step_angle
+---
+# Result
+bool success
+---
+# Feedback
+float64 current_angle
